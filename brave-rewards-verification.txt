@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tharunkatanguru.github.io
+Token: 9217d906fcbad6a5dd955e5df0273c26ff8a2d69fef5c4e8d382826a9e775294
